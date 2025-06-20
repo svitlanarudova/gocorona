@@ -1,0 +1,14 @@
+ %img-inner{
+    position: absolute;
+    //top
+    inset-block-start: 0;
+    //left
+    inset-inline-start: 0;
+    object-fit: cover;
+    //width
+    inline-size: 100%;
+    //height
+    block-size: 100%;
+    background-color: #e6e6e6;
+ }
+

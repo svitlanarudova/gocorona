@@ -1,0 +1,88 @@
+// Заголовки, общие BEM блоки и др.
+
+@use "_mixins.scss" as *;
+
+$mainColor: #616161;
+$accentRed: #ec5863;
+$accentBlue: #4285f4;
+
+.button {
+    font-family: "Raleway", sans-serif;
+    padding-inline: toRem(30);
+    padding-block: toRem(14);
+    border-radius: toRem(5);
+    font-size: toRem(10);
+    font-weight: 800;
+    color: #fcfdfe;
+    text-transform: uppercase;
+    letter-spacing: toRem(1.4);
+    line-height: 1.2;
+    background-color: $accentRed;
+    transition: background-color 0.3s ease;
+
+    @media (any-hover: hover), (pointer: fine) {
+        &:hover {
+            background-color: #f37a82;
+        }
+    }
+}
+
+.button--blue {
+    background-color: $accentBlue;
+
+    @media (any-hover: hover), (pointer: fine) {
+        &:hover {
+            background-color: #70a3f7;
+        }
+    }
+}
+
+.block-text {
+    &--center {
+        text-align: center;
+    }
+
+    &__title {
+        font-size: toRem(44);
+        font-weight: 700;
+        line-height: 1.26;
+        color: #000;
+
+        @media (max-width: toEm(900)) {
+            font-size: toRem(38);
+        }
+
+        @media (max-width: toEm(795)) {
+            font-size: toRem(34);
+        }
+
+        @media (max-width: toEm(715)) {
+            font-size: toRem(32);
+        }
+    }
+
+    &__title:not(:last-child) {
+        margin-block-end: toRem(12);
+    }
+
+    & span {
+        color: $accentRed;
+    }
+
+    &__title--blue {
+        span {
+            color: $accentBlue;
+        }
+    }
+
+    &__text {
+        letter-spacing: 0.96px;
+        @media (max-width: toEm(690)) {
+            font-size: toRem(15);
+        }
+    }
+
+    &__text:not(:last-child) {
+        margin-block-end: toRem(24);
+    }
+}
