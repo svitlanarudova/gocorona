@@ -1,8 +1,14 @@
-# 🎓GoCorona -  Learning Project: Responsive Website Layout
+# 🎓 Learning Project: Responsive Website Layout
 
 This website was developed as part of a **YouTube masterclass**. The project was built step by step together with the instructor as a learning experience.
 
-📺 **Masterclass video**: [Watch on YouTube](https://www.youtube.com/watch?v=sohdv21BVNI&list=PLM6XATa8CAG45G8-Qg79-9RDKvTuq_oUV)
+<a href="https://www.youtube.com/watch?v=sohdv21BVNI&list=PLM6XATa8CAG45G8-Qg79-9RDKvTuq_oUV" target="_blank">
+  <img src="https://img.youtube.com/vi/sohdv21BVNI/hqdefault.jpg" alt="Watch the video" width="400">
+</a>
+
+> 📺 **Masterclass video**: [Watch on YouTube](https://www.youtube.com/watch?v=sohdv21BVNI&list=PLM6XATa8CAG45G8-Qg79-9RDKvTuq_oUV)
+
+---
 
 ## 💡 Practiced Concepts and Technologies
 
@@ -25,13 +31,17 @@ Future projects will be created **independently**, applying the knowledge gained
 
 ---
 
-## 🌐 Ukrainian version
+## 🌐 Українська версія
 
-Цей сайт створено з навчальною метою в рамках **майстер-класу на YouTube**. Проєкт реалізовувався крок за кроком разом із викладачем.
+Сайт створено з навчальною метою в рамках **майстер-класу на YouTube**. Проєкт реалізовувався крок за кроком разом із викладачем.
 
-> 📺 **Відео майстер-класу**: [Переглянути на YouTube]([https://www.youtube.com/your-link-here](https://www.youtube.com/watch?v=sohdv21BVNI&list=PLM6XATa8CAG45G8-Qg79-9RDKvTuq_oUV))
+<a href="https://www.youtube.com/watch?v=sohdv21BVNI&list=PLM6XATa8CAG45G8-Qg79-9RDKvTuq_oUV" target="_blank">
+  <img src="https://img.youtube.com/vi/sohdv21BVNI/hqdefault.jpg" alt="Переглянути відео" width="400">
+</a>
 
-### Відпрацьовані теми та технології
+> 📺 **Відео майстер-класу**: [Переглянути на YouTube](https://www.youtube.com/watch?v=sohdv21BVNI&list=PLM6XATa8CAG45G8-Qg79-9RDKvTuq_oUV)
+
+### 🔍 Відпрацьовані теми та технології
 
 1. **Методологія BEM** — для структурованого іменування CSS-класів  
 2. **SCSS-препроцесор** — для зручного написання стилів  
@@ -49,4 +59,3 @@ Future projects will be created **independently**, applying the knowledge gained
 ### 🔧 Подальші плани
 
 Надалі планується створення проєктів **власноруч**, із самостійним застосуванням набутих знань.
-
