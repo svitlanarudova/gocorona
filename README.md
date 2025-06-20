@@ -1,4 +1,7 @@
-# 🎓"GoCorona" - learning project: responsive website layout
+![Learning Project](https://img.shields.io/badge/Learning_Project-F4A261?style=flat&logo=&logoColor=white&labelColor=ffffff)
+![Beginner](https://img.shields.io/badge/Beginner-A8D5BA?style=flat&logo=&logoColor=white&labelColor=ffffff)
+
+# 🎓"GoCorona"
 
 This website was developed as part of a **YouTube masterclass**. The project was built step by step together with the instructor as a learning experience.
 
@@ -32,6 +35,8 @@ Future projects will be created **independently**, applying the knowledge gained
 ---
 
 ## 🌐 Українська версія
+![Учбовий проєкт](https://img.shields.io/badge/Учбовий_проєкт-F4A261?style=flat&logo=&logoColor=white&labelColor=ffffff)
+![Початковий](https://img.shields.io/badge/Початковий-A8D5BA?style=flat&logo=&logoColor=white&labelColor=ffffff)
 
 Сайт створено з навчальною метою в рамках **майстер-класу на YouTube**. Проєкт реалізовувався крок за кроком разом із викладачем.
 
