@@ -1,5 +1,6 @@
 ![Learning Project](https://img.shields.io/badge/Learning_Project-F4A261?style=flat&logo=&logoColor=white&labelColor=ffffff)
 ![Beginner](https://img.shields.io/badge/Beginner-A8D5BA?style=flat&logo=&logoColor=white&labelColor=ffffff)
+[![🔗 Live Preview](https://img.shields.io/badge/🔗_Live_Preview-1f2d5a?style=flat&labelColor=3b4a8b)](https://bonesmaster88.github.io/gocorona/gocorona/)
 
 # 🎓"GoCorona"
 
@@ -35,8 +36,6 @@ Future projects will be created **independently**, applying the knowledge gained
 ---
 
 ## 🌐 Українська версія
-![Учбовий проєкт](https://img.shields.io/badge/Учбовий_проєкт-F4A261?style=flat&logo=&logoColor=white&labelColor=ffffff)
-![Початковий](https://img.shields.io/badge/Початковий-A8D5BA?style=flat&logo=&logoColor=white&labelColor=ffffff)
 
 Сайт створено з навчальною метою в рамках **майстер-класу на YouTube**. Проєкт реалізовувався крок за кроком разом із викладачем.
 
