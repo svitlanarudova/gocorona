@@ -2,7 +2,7 @@
 
 This website was developed as part of a **YouTube masterclass**. The project was built step by step together with the instructor as a learning experience.
 
-> 📺 **Masterclass video**: [Watch on YouTube](https://www.youtube.com/your-link-here](https://www.youtube.com/watch?v=sohdv21BVNI&list=PLM6XATa8CAG45G8-Qg79-9RDKvTuq_oUV)
+📺 **Masterclass video**: [Watch on YouTube](https://www.youtube.com/watch?v=sohdv21BVNI&list=PLM6XATa8CAG45G8-Qg79-9RDKvTuq_oUV)
 
 ## 💡 Practiced Concepts and Technologies
 
