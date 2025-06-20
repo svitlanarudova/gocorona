@@ -1,4 +1,4 @@
-# 🎓 Learning Project: Responsive Website Layout
+# 🎓"GoCorona" - learning project: responsive website layout
 
 This website was developed as part of a **YouTube masterclass**. The project was built step by step together with the instructor as a learning experience.
 
