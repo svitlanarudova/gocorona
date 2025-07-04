@@ -1,6 +1,7 @@
-![Learning Project](https://img.shields.io/badge/Learning_Project-F4A261?style=flat&logo=&logoColor=white&labelColor=ffffff)
-![Beginner](https://img.shields.io/badge/Beginner-A8D5BA?style=flat&logo=&logoColor=white&labelColor=ffffff)
-[![🔗 Live Preview](https://img.shields.io/badge/🔗_Live_Preview-1f2d5a?style=flat&labelColor=3b4a8b)](https://bonesmaster88.github.io/gocorona/gocorona/)
+![#1](https://img.shields.io/badge/%231-skyblue)
+![Learning Project](https://img.shields.io/badge/Learning_Project-F4A261?style=flat&logoColor=white)
+![Beginner](https://img.shields.io/badge/Beginner-A8D5BA?style=flat&logoColor=white)
+[![🔗 Live Preview](https://img.shields.io/badge/🔗_Live_Preview-1f2d5a?style=flat&logoColor=white)](https://bonesmaster88.github.io/gocorona/gocorona/)
 
 # 🎓"GoCorona"
 
